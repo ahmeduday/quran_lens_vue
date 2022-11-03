@@ -1,6 +1,15 @@
 <template>
-    <div class="bg-primary text-light" :style="{width:'400px'}">
-        
-        <div class="mx-auto" :style="{width:'200px'}">hi info</div>
-    </div>
+    <h1>Info</h1>
+
+    <ol>
+        <li v-for="item in facts" class="">
+            <strong class="fs-4">{{item.key}}</strong>
+            <span class="ms-2">{{item.value}}</span>
+        </li>
+    </ol>
 </template>
+
+<script lang="ts" setup>
+    var fact = {key: "Chapters:", value: "114"};
+    var facts = [fact];
+</script>

@@ -1,5 +1,5 @@
 <template>
-    <div id="Home" class="d-flex align-items-center" :style="{'background-image':'url(~/assets/home-background.png)',width:'100%',height:'100%',position:'absolute'}">
+    <div id="Home" class="d-flex align-items-center" :style="{'background-image':'url(~assets/home-background.png)',width:'100%',height:'100%',position:'absolute'}">
 		
 	<div id="content" class="mx-auto" :style="{'width':'750px',height:'240px'}">
 		<div id="info-tile" class="tile">
@@ -17,7 +17,7 @@
 							c0.107,0,0.199,0.004,0.276,0.01c0.036,0.198,0.07,0.5,0.07,0.933c0,3.047-0.627,6.654-1.856,10.703
 							c-30.136,97.641-44.785,157.498-44.785,182.994c0,8.998,2.501,16.242,7.432,21.528c5.025,5.393,11.803,8.127,20.146,8.127
 							c8.891,0,19.712-3.714,33.08-11.354c12.936-7.392,32.68-23.653,60.363-49.717C316.337,364.326,316.636,361.587,315.249,359.555z"/>
-						<path :style="{'fill':'#FFFFFF'}" ,d="M314.282,76.672c-4.925-5.041-11.227-7.597-18.729-7.597c-9.34,0-17.475,3.691-24.176,10.971
+						<path :style="{'fill':'#FFFFFF'}" d="M314.282,76.672c-4.925-5.041-11.227-7.597-18.729-7.597c-9.34,0-17.475,3.691-24.176,10.971
 							c-6.594,7.16-9.938,15.946-9.938,26.113c0,8.033,2.463,14.69,7.32,19.785c4.922,5.172,11.139,7.794,18.476,7.794
 							c8.958,0,17.049-3.898,24.047-11.586c6.876-7.553,10.363-16.433,10.363-26.393C321.646,88.105,319.169,81.684,314.282,76.672z"/>
 					</g>
@@ -30,7 +30,7 @@
 		<div id="suras-tile" class="tile" :style="{'margin-left':'10px','margin-right':'10px'}">
 			<div id="quran-symbol" class="frame" :style="{'background-color':'cyan'}">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 460 460" 
-					style="{'enable-background':new 0 0 460 460," xml:space="preserve" width="120" height="120}">
+					style="" xml:space="preserve" width="120" height="120}">
 					<g id="XMLID_1618_">
 						<path id="XMLID_482_" :style="{'fill':'#798751'}" d="M450,382.5H10c-5.523,0-10-4.477-10-10v-300c0-5.523,4.477-10,10-10h440   c5.523,0,10,4.477,10,10v300C460,378.023,455.523,382.5,450,382.5z}"/>
 						<path id="XMLID_481_" :style="{'fill':'#283215'}" d="M250,382.5h-40v-320h40V382.5z}"/>
