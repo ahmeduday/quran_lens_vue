@@ -1,0 +1,914 @@
+[
+    {
+        "sura_no": 1,
+        "name": "Al-Fātiḥah",
+        "arabic": "الفَاتِحة ",
+        "read-link": "",
+        "play-link": "10-001D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 2,
+        "name": "Al-Baqarah",
+        "arabic": "البَقَرَة ",
+        "read-link": "",
+        "play-link": "10-002D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 3,
+        "name": "Āl-‘Imrān",
+        "arabic": "آل عِمران ",
+        "read-link": "",
+        "play-link": "10-003D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 4,
+        "name": "An-Nisā’",
+        "arabic": "النِّسَاء ",
+        "read-link": "",
+        "play-link": "10-004D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 5,
+        "name": "Al-Mā’idah",
+        "arabic": "المَائدة ",
+        "read-link": "",
+        "play-link": "10-005D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 6,
+        "name": "Al-An‘ām",
+        "arabic": "الأنعَام ",
+        "read-link": "",
+        "play-link": "10-006D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 7,
+        "name": "Al-A‘rāf",
+        "arabic": "الأعرَاف ",
+        "read-link": "",
+        "play-link": "10-007D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 8,
+        "name": "Al-Anfāl",
+        "arabic": "الأنفَال ",
+        "read-link": "",
+        "play-link": "10-008D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 9,
+        "name": "At-Taubah",
+        "arabic": "التوبَة ",
+        "read-link": "",
+        "play-link": "10-009D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 10,
+        "name": "Yūnus",
+        "arabic": "يُونس ",
+        "read-link": "",
+        "play-link": "10-010D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 11,
+        "name": "Hūd",
+        "arabic": "هُود ",
+        "read-link": "",
+        "play-link": "10-011D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 12,
+        "name": "Yūsuf",
+        "arabic": "يُوسُف ",
+        "read-link": "",
+        "play-link": "10-012D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 13,
+        "name": "Ar-Ra‘d",
+        "arabic": "الرَّعد ",
+        "read-link": "",
+        "play-link": "10-013D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 14,
+        "name": "Ibrāhīm",
+        "arabic": "إبراهِيم ",
+        "read-link": "",
+        "play-link": "10-014D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 15,
+        "name": "Al-Ḥijr",
+        "arabic": "الحِجر ",
+        "read-link": "",
+        "play-link": "10-015D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 16,
+        "name": "An-Naḥl",
+        "arabic": "النَّحل ",
+        "read-link": "",
+        "play-link": "10-016D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 17,
+        "name": "Al-Isrā’",
+        "arabic": "الإسرَاء ",
+        "read-link": "",
+        "play-link": "10-017D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 18,
+        "name": "Al-Kahf",
+        "arabic": "الكَهف ",
+        "read-link": "",
+        "play-link": "10-018D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 19,
+        "name": "Maryam",
+        "arabic": "مَريَم ",
+        "read-link": "",
+        "play-link": "10-019D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 20,
+        "name": "Ṭā-Hā",
+        "arabic": "طه ",
+        "read-link": "",
+        "play-link": "10-020D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 21,
+        "name": "Al-Anbiyā’",
+        "arabic": "الأنبيَاء ",
+        "read-link": "",
+        "play-link": "10-021D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 22,
+        "name": "Al-Ḥajj",
+        "arabic": "الحج ",
+        "read-link": "",
+        "play-link": "10-022D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 23,
+        "name": "Al-Mu’minūn",
+        "arabic": "المؤمنُون ",
+        "read-link": "",
+        "play-link": "10-023D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 24,
+        "name": "An-Nūr",
+        "arabic": "النور ",
+        "read-link": "",
+        "play-link": "10-024D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 25,
+        "name": "Al-Furqān",
+        "arabic": "الفُرقَان ",
+        "read-link": "",
+        "play-link": "10-025D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 26,
+        "name": "Ash-Shu‘arā’",
+        "arabic": "الشعراء ",
+        "read-link": "",
+        "play-link": "10-026D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 27,
+        "name": "An-Naml",
+        "arabic": "النَّمل ",
+        "read-link": "",
+        "play-link": "10-027D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 28,
+        "name": "Al-Qaṣaṣ",
+        "arabic": "القَصَص ",
+        "read-link": "",
+        "play-link": "10-028D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 29,
+        "name": "Al-‘Ankabūt",
+        "arabic": "العَنكبُوت ",
+        "read-link": "",
+        "play-link": "10-029D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 30,
+        "name": "Ar-Rūm",
+        "arabic": "الرُّوم ",
+        "read-link": "",
+        "play-link": "10-030D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 31,
+        "name": "Luqmān",
+        "arabic": "لُقمَان ",
+        "read-link": "",
+        "play-link": "10-031D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 32,
+        "name": "As-Sajdah",
+        "arabic": "السَّجدة ",
+        "read-link": "",
+        "play-link": "10-032D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 33,
+        "name": "Al-Aḥzāb",
+        "arabic": "الأحزَاب ",
+        "read-link": "",
+        "play-link": "10-033D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 34,
+        "name": "Saba’",
+        "arabic": "سَبإ ",
+        "read-link": "",
+        "play-link": "10-034D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 35,
+        "name": "Fāṭir",
+        "arabic": "فَاطِر ",
+        "read-link": "",
+        "play-link": "10-035D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 36,
+        "name": "Yā-Sīn",
+        "arabic": "يسٓ ",
+        "read-link": "",
+        "play-link": "10-036D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 37,
+        "name": "Aṣ-Ṣāffāt",
+        "arabic": "الصَّافَات ",
+        "read-link": "",
+        "play-link": "10-037D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 38,
+        "name": "Ṣād",
+        "arabic": "صٓ ",
+        "read-link": "",
+        "play-link": "10-038D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 39,
+        "name": "Az-Zumar",
+        "arabic": "الزُّمَر ",
+        "read-link": "",
+        "play-link": "10-039D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 40,
+        "name": "Ghāfir",
+        "arabic": "غَافِر ",
+        "read-link": "",
+        "play-link": "10-040D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 41,
+        "name": "Fuṣṣilat",
+        "arabic": "فُصِّلَت ",
+        "read-link": "",
+        "play-link": "10-041D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 42,
+        "name": "Ash-Shūra",
+        "arabic": "الشُّورى ",
+        "read-link": "",
+        "play-link": "10-042D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 43,
+        "name": "Az-Zukhruf",
+        "arabic": "الزُّخرُف ",
+        "read-link": "",
+        "play-link": "10-043D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 44,
+        "name": "Ad-Dukhān",
+        "arabic": "الدُّخان ",
+        "read-link": "",
+        "play-link": "10-044D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 45,
+        "name": "Al-Jāthiyah",
+        "arabic": "الجاثِية ",
+        "read-link": "",
+        "play-link": "10-045D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 46,
+        "name": "Al-Aḥqāf",
+        "arabic": "الأحقَاف ",
+        "read-link": "",
+        "play-link": "10-046D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 47,
+        "name": "Muḥammad",
+        "arabic": "مُحمد ",
+        "read-link": "",
+        "play-link": "10-047D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 48,
+        "name": "Al-Fatḥ",
+        "arabic": "الفَتح ",
+        "read-link": "",
+        "play-link": "10-048D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 49,
+        "name": "Al-Ḥujurāt",
+        "arabic": "الحُجُرَات ",
+        "read-link": "",
+        "play-link": "10-049D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 50,
+        "name": "Qāf",
+        "arabic": "قٓ ",
+        "read-link": "",
+        "play-link": "10-050D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 51,
+        "name": "Adh-Dhāriyāt",
+        "arabic": "الذَّاريَات ",
+        "read-link": "",
+        "play-link": "10-051D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 52,
+        "name": "Aṭ-Ṭūr",
+        "arabic": "الطُّور ",
+        "read-link": "",
+        "play-link": "10-052D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 53,
+        "name": "An-Najm",
+        "arabic": "النَّجم ",
+        "read-link": "",
+        "play-link": "10-053D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 54,
+        "name": "Al-Qamar",
+        "arabic": "القَمَر ",
+        "read-link": "",
+        "play-link": "10-054D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 55,
+        "name": "Ar-Raḥmān",
+        "arabic": "الرَّحمٰن ",
+        "read-link": "",
+        "play-link": "10-055D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 56,
+        "name": "Al-Wāqi‘ah",
+        "arabic": "الوَاقِعة ",
+        "read-link": "",
+        "play-link": "10-056D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 57,
+        "name": "Al-Ḥadīd",
+        "arabic": "الحدِيد ",
+        "read-link": "",
+        "play-link": "10-057D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 58,
+        "name": "Al-Mujādilah",
+        "arabic": "المُجَادلة ",
+        "read-link": "",
+        "play-link": "10-058D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 59,
+        "name": "Al-Ḥashr",
+        "arabic": "الحَشر ",
+        "read-link": "",
+        "play-link": "10-059D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 60,
+        "name": "Al-Mumtaḥanah",
+        "arabic": "المُمتَحنَة ",
+        "read-link": "",
+        "play-link": "10-060D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 61,
+        "name": "Aṣ-Ṣaff",
+        "arabic": "الصَّف ",
+        "read-link": "",
+        "play-link": "10-061D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 62,
+        "name": "Al-Jumu‘ah",
+        "arabic": "الجُمعَة ",
+        "read-link": "",
+        "play-link": "10-062D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 63,
+        "name": "Al-Munāfiqūn",
+        "arabic": "المُنَافِقُونَ ",
+        "read-link": "",
+        "play-link": "10-063D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 64,
+        "name": "At-Taghābun",
+        "arabic": "التغَابُن ",
+        "read-link": "",
+        "play-link": "10-064D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 65,
+        "name": "Aṭ-Ṭalāq",
+        "arabic": "الطَّلَاق ",
+        "read-link": "",
+        "play-link": "10-065D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 66,
+        "name": "At-Taḥrīm",
+        "arabic": "التَّحرِيم ",
+        "read-link": "",
+        "play-link": "10-066D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 67,
+        "name": "Al-Mulk",
+        "arabic": "المُلك ",
+        "read-link": "",
+        "play-link": "10-067D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 68,
+        "name": "Al-Qalam",
+        "arabic": "القَلَم ",
+        "read-link": "",
+        "play-link": "10-068D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 69,
+        "name": "Al-Ḥāqqah",
+        "arabic": "الحَاقة ",
+        "read-link": "",
+        "play-link": "10-069D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 70,
+        "name": "Al-Ma‘ārij",
+        "arabic": "المَعَارج ",
+        "read-link": "",
+        "play-link": "10-070D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 71,
+        "name": "Nūḥ",
+        "arabic": "نُوح ",
+        "read-link": "",
+        "play-link": "10-071D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 72,
+        "name": "Al-Jinn",
+        "arabic": "الجِن ",
+        "read-link": "",
+        "play-link": "10-072D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 73,
+        "name": "Al-Muzzammil",
+        "arabic": "المُزمل ",
+        "read-link": "",
+        "play-link": "10-073D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 74,
+        "name": "Al-Muddaththir",
+        "arabic": "المُدثر ",
+        "read-link": "",
+        "play-link": "10-074D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 75,
+        "name": "Al-Qiyāmah",
+        "arabic": "القِيَامة ",
+        "read-link": "",
+        "play-link": "10-075D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 76,
+        "name": "Al-Insān",
+        "arabic": "الإنسَان ",
+        "read-link": "",
+        "play-link": "10-076D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 77,
+        "name": "Al-Mursalāt",
+        "arabic": "المُرسَلات ",
+        "read-link": "",
+        "play-link": "10-077D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 78,
+        "name": "An-Naba’",
+        "arabic": "النَّبَإ ",
+        "read-link": "",
+        "play-link": "10-078D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 79,
+        "name": "An-Nāzi‘āt",
+        "arabic": "النَّازعَات ",
+        "read-link": "",
+        "play-link": "10-079D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 80,
+        "name": "‘Abasa",
+        "arabic": "عَبَسَ ",
+        "read-link": "",
+        "play-link": "10-080D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 81,
+        "name": "At-Takwīr",
+        "arabic": "التَّكوير ",
+        "read-link": "",
+        "play-link": "10-081D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 82,
+        "name": "Al-Infiṭār",
+        "arabic": "الانفِطَار ",
+        "read-link": "",
+        "play-link": "10-082D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 83,
+        "name": "Al-Muṭaffifīn",
+        "arabic": "المُطَففين ",
+        "read-link": "",
+        "play-link": "10-083D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 84,
+        "name": "Al-Inshiqāq",
+        "arabic": "الانشِقَاق ",
+        "read-link": "",
+        "play-link": "10-084D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 85,
+        "name": "Al-Burūj",
+        "arabic": "البُرُوج ",
+        "read-link": "",
+        "play-link": "10-085D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 86,
+        "name": "Aṭ-Ṭāriq",
+        "arabic": "الطَّارق ",
+        "read-link": "",
+        "play-link": "10-086D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 87,
+        "name": "Al-A‘lā",
+        "arabic": "الأعلى ",
+        "read-link": "",
+        "play-link": "10-087D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 88,
+        "name": "Al-Ghāshiyah",
+        "arabic": "الغَاشِية ",
+        "read-link": "",
+        "play-link": "10-088D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 89,
+        "name": "Al-Fajr",
+        "arabic": "الفَجر ",
+        "read-link": "",
+        "play-link": "10-089D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 90,
+        "name": "Al-Balad",
+        "arabic": "البَلَد ",
+        "read-link": "",
+        "play-link": "10-090D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 91,
+        "name": "Ash-Shams",
+        "arabic": "الشَّمس ",
+        "read-link": "",
+        "play-link": "10-091D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 92,
+        "name": "Al-Lail",
+        "arabic": "اللَّيل ",
+        "read-link": "",
+        "play-link": "10-092D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 93,
+        "name": "Aḍ-Ḍuḥā",
+        "arabic": "الضُّحى ",
+        "read-link": "",
+        "play-link": "10-093D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 94,
+        "name": "Ash-Sharḥ",
+        "arabic": "الشَّرح ",
+        "read-link": "",
+        "play-link": "10-094D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 95,
+        "name": "At-Tīn",
+        "arabic": "التِّين ",
+        "read-link": "",
+        "play-link": "10-095D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 96,
+        "name": "Al-‘Alaq",
+        "arabic": "العَلَق ",
+        "read-link": "",
+        "play-link": "10-096D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 97,
+        "name": "Al-Qadr",
+        "arabic": "القَدر ",
+        "read-link": "",
+        "play-link": "10-097D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 98,
+        "name": "Al-Bayyinah",
+        "arabic": "البَينَة ",
+        "read-link": "",
+        "play-link": "10-098D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 99,
+        "name": "Az-Zalzalah",
+        "arabic": "الزَّلزَلة ",
+        "read-link": "",
+        "play-link": "10-099D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 100,
+        "name": "Al-‘Ādiyāt",
+        "arabic": "العَاديَات ",
+        "read-link": "",
+        "play-link": "10-100D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 101,
+        "name": "Al-Qāri‘ah",
+        "arabic": "القَارعَة ",
+        "read-link": "",
+        "play-link": "10-101D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 102,
+        "name": "At-Takāthur",
+        "arabic": "التَّكاثُر ",
+        "read-link": "",
+        "play-link": "10-102D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 103,
+        "name": "Al-‘Aṣr",
+        "arabic": "العَصر ",
+        "read-link": "",
+        "play-link": "10-103D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 104,
+        "name": "Al-Humazah",
+        "arabic": "الهُمَزة ",
+        "read-link": "",
+        "play-link": "10-104D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 105,
+        "name": "Al-Fīl",
+        "arabic": "الفِيل ",
+        "read-link": "",
+        "play-link": "10-105D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 106,
+        "name": "Quraish",
+        "arabic": "قُرَيش ",
+        "read-link": "",
+        "play-link": "10-106D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 107,
+        "name": "Al-Mā‘ūn",
+        "arabic": "المَاعُون ",
+        "read-link": "",
+        "play-link": "10-107D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 108,
+        "name": "Al-Kauthar",
+        "arabic": "الكَوثر ",
+        "read-link": "",
+        "play-link": "10-108D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 109,
+        "name": "Al-Kāfirūn",
+        "arabic": "الكافِرون ",
+        "read-link": "",
+        "play-link": "10-109D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 110,
+        "name": "An-Naṣr",
+        "arabic": "النَّصر ",
+        "read-link": "",
+        "play-link": "10-110D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 111,
+        "name": "Al-Masad",
+        "arabic": "المَسَد ",
+        "read-link": "",
+        "play-link": "10-111D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 112,
+        "name": "Al-Ikhlāṣ",
+        "arabic": "الإخلَاص ",
+        "read-link": "",
+        "play-link": "10-112D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 113,
+        "name": "Al-Falaq",
+        "arabic": "الفَلَق ",
+        "read-link": "",
+        "play-link": "10-113D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    },
+    {
+        "sura_no": 114,
+        "name": "An-Nās",
+        "arabic": "النَّاس ",
+        "read-link": "",
+        "play-link": "10-114D00-A01",
+        "info-link": "./data/chapter/Al-Fatihah"
+    }
+]

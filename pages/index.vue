@@ -1,9 +1,9 @@
 <template>
-    <div id="Home" class="d-flex align-items-center" :style="{'background-image':'url(~assets/home-background.png)',width:'100%',height:'100%',position:'absolute'}">
+    <div id="Home" class="d-flex align-items-center" :style="{'background-image':'url(assets/home-background.png)',width:'100%',height:'100%',position:'absolute'}">
 		
 	<div id="content" class="mx-auto" :style="{'width':'750px',height:'240px'}">
 		<div id="info-tile" class="tile">
-			<div id="info-symbol" class="frame" :style="{'background-color':'yellow'}">
+			<div id="info-symbol" class="frame" :style="{'background-color':'orange'}">
 				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="120px" height="120px"
 					 viewBox="0 0 496.158 496.158" xml:space="preserve">
 					<path :style="{'fill':'#25B7D3'}" d="M496.158,248.085c0-137.022-111.069-248.082-248.075-248.082C111.07,0.003,0,111.063,0,248.085
@@ -27,8 +27,8 @@
 			</div>
 
 		</div>
-		<div id="suras-tile" class="tile" :style="{'margin-left':'10px','margin-right':'10px'}">
-			<div id="quran-symbol" class="frame" :style="{'background-color':'cyan'}">
+		<div id="suras-tile" class="tile">
+			<div id="quran-symbol" class="frame" :style="{'background-color':'green'}">
 				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 460 460" 
 					style="" xml:space="preserve" width="120" height="120}">
 					<g id="XMLID_1618_">
@@ -44,12 +44,12 @@
 						<path id="XMLID_340_" :style="{'fill':'#CFC4A6'}" d="M205,72.5H85c-2.761,0-5-2.239-5-5v0c0-2.761,2.239-5,5-5h120c2.761,0,5,2.239,5,5   v0C210,70.261,207.761,72.5,205,72.5z M210,87.5L210,87.5c0-2.761-2.239-5-5-5H85c-2.761,0-5,2.239-5,5v0c0,2.761,2.239,5,5,5h120   C207.761,92.5,210,90.261,210,87.5z M210,107.5L210,107.5c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5v0c0,2.761,2.239,5,5,5h160   C207.761,112.5,210,110.261,210,107.5z M190,127.5L190,127.5c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5v0c0,2.761,2.239,5,5,5   h140C187.761,132.5,190,130.261,190,127.5z M210,147.5L210,147.5c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5l0,0   c0,2.761,2.239,5,5,5h160C207.761,152.5,210,150.261,210,147.5z M200,167.5L200,167.5c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5   l0,0c0,2.761,2.239,5,5,5h150C197.761,172.5,200,170.261,200,167.5z M210,207.5L210,207.5c0-2.761-2.239-5-5-5H45   c-2.761,0-5,2.239-5,5l0,0c0,2.761,2.239,5,5,5h160C207.761,212.5,210,210.261,210,207.5z M190,227.5L190,227.5   c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5l0,0c0,2.761,2.239,5,5,5h140C187.761,232.5,190,230.261,190,227.5z M210,247.5   L210,247.5c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5l0,0c0,2.761,2.239,5,5,5h160C207.761,252.5,210,250.261,210,247.5z    M200,267.5L200,267.5c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5l0,0c0,2.761,2.239,5,5,5h150   C197.761,272.5,200,270.261,200,267.5z M70,87.5v-20c0-2.761-2.239-5-5-5H45c-2.761,0-5,2.239-5,5v20c0,2.761,2.239,5,5,5h20   C67.761,92.5,70,90.261,70,87.5z M55,302.5H45c-2.761,0-5,2.239-5,5l0,0c0,2.761,2.239,5,5,5h10c2.761,0,5-2.239,5-5l0,0   C60,304.739,57.761,302.5,55,302.5z}"/>
 					</g>
 				</svg>
-				<h3>Chapters</h3>
+				<h4>Chapters</h4>
 	
 			</div>
 		</div>
 		<div id="apps-tile" class="tile">
-			<div id="subjects-frame" class="frame" :style="{'background-color':'green'}">
+			<div id="subjects-frame" class="frame" :style="{'background-color':'cyan'}">
 				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 						viewBox="0 0 511.997 511.997" xml:space="preserve" width="120" height="120">
 					<path :style="{'fill':'#3679A3'}" d="M77.637,161.29V41.23c0-17.918,14.526-32.444,32.444-32.444h80.849
