@@ -1,10 +1,10 @@
-var fs = require('fs');
-var path = require('path');
+import fs from 'fs'
 
 
-function getInfo(filename: string) {
+export default function getInfo(filename: string) {
     var text = fs.readFileSync("./data/" + filename + ".json").toString();
     return JSON.parse(text);
 }
 
-module.exports = getInfo;
+
+// module.exports = getInfo;

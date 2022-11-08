@@ -14,6 +14,6 @@ import getInfo from  '../helpers/readJson';
 // var fact = {key: "Chapters:", value: "114"};
 // var facts = [fact];
 
-var text = fs.readFileSync("./data/info.json").toString();
-var facts = JSON.parse(text);
+var json = getInfo("info");
+var facts = json;
 </script>
